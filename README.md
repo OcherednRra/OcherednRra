@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Coding enthusiast & tutor. Turning curiosity into projects and helping others learn.
+
 <!--
 **OcherednRra/OcherednRra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
